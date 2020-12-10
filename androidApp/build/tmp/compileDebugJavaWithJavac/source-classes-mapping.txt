@@ -1,0 +1,4 @@
+com/example/kmm_t/androidApp/BuildConfig.java
+ com.example.kmm_t.androidApp.BuildConfig
+com/example/kmm_t/androidApp/databinding/ActivityMainBinding.java
+ com.example.kmm_t.androidApp.databinding.ActivityMainBinding
